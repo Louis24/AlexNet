@@ -9,4 +9,4 @@ scipy
 numpy   
 
 ## Weights 
-![Download](http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/)
+[Download](http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/)
